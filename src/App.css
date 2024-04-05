@@ -1,0 +1,57 @@
+  body {
+    background-color: #7BD2FE;
+
+    font-family: "Single Day", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  #root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+  }
+
+
+  img {
+    width: 10em;
+    border-radius: 50%;
+  }
+
+  button.flag img {
+    border-radius: 0;
+    width: 4em;
+  }
+
+  button.flag {
+    background-color: transparent;
+    border-color: transparent;
+    cursor: pointer;
+  }
+
+  .row {
+    display: flex;
+  }
+
+  p {
+    font-size: 2em;
+  }
+
+
+  h1,
+  h2,
+  p {
+    margin: 0;
+    padding: 0;
+  }
+
+  h2,
+  p {
+    color: black;
+  }
+
+  h1 {
+    font-size: 3em;
+    color: #179cf0;
+  }
