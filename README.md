@@ -1,6 +1,6 @@
 # The Simpson
 
-Illustration de concepts clés avec React
+Illustration des concepts clés du développement d'application web Front End avec React :
 
 - [x] programmation événementielle
 - [x] composition
@@ -11,9 +11,10 @@ Illustration de concepts clés avec React
 
 ## Consignes
 
+- Installation des dépendances NPM : `npm i`
 - Lancement de l'application : `npm start`
 - Lancement de l'application avec "Hot Reloading" : `npm run dev`
-- Activation des composants -> commenter / décommenter les balises dans le composant App (./src/App.jsx)
+- Activation des composants -> commenter / décommenter les balises dans le composant App `(./src/App.jsx)`
 
 --
 
