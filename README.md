@@ -9,6 +9,12 @@ Illustration de concepts clés avec React
 - [x] communication directe ascendante entre composants
 - [x] communication indirecte entre composants avec le hook useContext
 
+## Consignes
+
+- Lancement de l'application : `npm start`
+- Lancement de l'application avec "Hot Reloading" : `npm run dev`
+- Activation des composants -> commenter / décommenter les balises dans le composant App (./src/App.jsx)
+
 --
 
 !["Logotype Shrp"](https://shrp.dev/images/shrp.png)
